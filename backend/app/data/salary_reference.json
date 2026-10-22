@@ -1,0 +1,230 @@
+[
+  {
+    "position_keywords": ["software engineer", "yazılım mühendisi", "backend developer", "frontend developer", "full stack", "fullstack"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "kocaeli", "remote", "uzaktan", "tüm türkiye", "any"],
+    "experience_levels": {
+      "junior": { "low": 40000, "mid": 55000, "high": 70000 },
+      "mid": { "low": 65000, "mid": 85000, "high": 110000 },
+      "senior": { "low": 100000, "mid": 130000, "high": 180000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["data scientist", "veri bilimci", "data engineer", "veri mühendisi", "machine learning", "yapay zeka"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 45000, "mid": 60000, "high": 75000 },
+      "mid": { "low": 70000, "mid": 95000, "high": 125000 },
+      "senior": { "low": 110000, "mid": 145000, "high": 200000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["product manager", "ürün yöneticisi", "project manager", "proje yöneticisi"],
+    "city_keywords": ["istanbul", "ankara", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 40000, "mid": 50000, "high": 65000 },
+      "mid": { "low": 60000, "mid": 80000, "high": 100000 },
+      "senior": { "low": 95000, "mid": 120000, "high": 160000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["devops", "site reliability", "sre", "sistem yöneticisi", "cloud engineer", "bulut mühendisi"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 45000, "mid": 60000, "high": 75000 },
+      "mid": { "low": 75000, "mid": 100000, "high": 130000 },
+      "senior": { "low": 115000, "mid": 150000, "high": 210000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["qa", "test mühendisi", "test engineer", "yazılım test", "kalite güvence"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 35000, "mid": 45000, "high": 58000 },
+      "mid": { "low": 55000, "mid": 72000, "high": 90000 },
+      "senior": { "low": 85000, "mid": 105000, "high": 140000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["mobile developer", "mobil geliştirici", "ios developer", "android developer", "react native"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 40000, "mid": 55000, "high": 70000 },
+      "mid": { "low": 65000, "mid": 88000, "high": 115000 },
+      "senior": { "low": 105000, "mid": 135000, "high": 185000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["ui/ux", "ux designer", "ui designer", "ürün tasarımcısı", "product designer", "arayüz tasarımcısı"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 32000, "mid": 42000, "high": 55000 },
+      "mid": { "low": 52000, "mid": 68000, "high": 88000 },
+      "senior": { "low": 82000, "mid": 105000, "high": 140000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["business analyst", "iş analisti", "sistem analisti"],
+    "city_keywords": ["istanbul", "ankara", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 33000, "mid": 42000, "high": 54000 },
+      "mid": { "low": 52000, "mid": 68000, "high": 88000 },
+      "senior": { "low": 80000, "mid": 100000, "high": 130000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["insan kaynakları", "ik uzmanı", "hr specialist", "işe alım", "recruiter"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 28000, "mid": 36000, "high": 45000 },
+      "mid": { "low": 42000, "mid": 55000, "high": 70000 },
+      "senior": { "low": 65000, "mid": 85000, "high": 115000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["muhasebe", "finans uzmanı", "mali işler", "accountant", "financial analyst"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 28000, "mid": 36000, "high": 46000 },
+      "mid": { "low": 44000, "mid": 58000, "high": 75000 },
+      "senior": { "low": 70000, "mid": 92000, "high": 125000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["satış", "sales", "account manager", "iş geliştirme", "business development"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 27000, "mid": 35000, "high": 45000 },
+      "mid": { "low": 42000, "mid": 58000, "high": 78000 },
+      "senior": { "low": 68000, "mid": 95000, "high": 140000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["pazarlama", "marketing", "dijital pazarlama", "digital marketing", "içerik uzmanı"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 27000, "mid": 34000, "high": 43000 },
+      "mid": { "low": 40000, "mid": 53000, "high": 68000 },
+      "senior": { "low": 62000, "mid": 82000, "high": 115000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["müşteri hizmetleri", "customer support", "customer success", "çağrı merkezi"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 24000, "mid": 29000, "high": 36000 },
+      "mid": { "low": 34000, "mid": 44000, "high": 55000 },
+      "senior": { "low": 52000, "mid": 68000, "high": 90000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["veri analisti", "data analyst", "iş zekası", "business intelligence", "bi uzmanı"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 33000, "mid": 42000, "high": 54000 },
+      "mid": { "low": 52000, "mid": 68000, "high": 90000 },
+      "senior": { "low": 85000, "mid": 110000, "high": 145000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["siber güvenlik", "security engineer", "güvenlik mühendisi", "penetrasyon test", "bilgi güvenliği"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 45000, "mid": 60000, "high": 78000 },
+      "mid": { "low": 78000, "mid": 105000, "high": 135000 },
+      "senior": { "low": 120000, "mid": 155000, "high": 215000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["gömülü yazılım", "embedded", "donanım mühendisi", "hardware engineer", "elektronik mühendisi"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "kocaeli", "bursa", "any"],
+    "experience_levels": {
+      "junior": { "low": 38000, "mid": 50000, "high": 64000 },
+      "mid": { "low": 62000, "mid": 82000, "high": 105000 },
+      "senior": { "low": 98000, "mid": 125000, "high": 170000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["lojistik", "tedarik zinciri", "supply chain", "satın alma", "procurement"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "kocaeli", "bursa", "any"],
+    "experience_levels": {
+      "junior": { "low": 27000, "mid": 34000, "high": 43000 },
+      "mid": { "low": 42000, "mid": 55000, "high": 72000 },
+      "senior": { "low": 66000, "mid": 88000, "high": 120000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["hukuk müşaviri", "avukat", "legal counsel", "hukuk uzmanı", "compliance uzmanı"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 35000, "mid": 45000, "high": 58000 },
+      "mid": { "low": 58000, "mid": 78000, "high": 100000 },
+      "senior": { "low": 95000, "mid": 130000, "high": 180000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  },
+  {
+    "position_keywords": ["içerik yazarı", "copywriter", "editör", "çevirmen", "translator"],
+    "city_keywords": ["istanbul", "ankara", "izmir", "remote", "uzaktan", "any"],
+    "experience_levels": {
+      "junior": { "low": 24000, "mid": 30000, "high": 38000 },
+      "mid": { "low": 36000, "mid": 47000, "high": 60000 },
+      "senior": { "low": 55000, "mid": 72000, "high": 98000 }
+    },
+    "currency": "TRY",
+    "source": "CV Agent dahili referans tablosu",
+    "source_date": "2026-01"
+  }
+]

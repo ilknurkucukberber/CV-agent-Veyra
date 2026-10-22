@@ -1,0 +1,34 @@
+# Env
+.env
+.env.local
+.env*.local
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+.next/
+out/
+
+# Misc
+.DS_Store
+*.log
+*.tsbuildinfo
+coverage/
+backend/celerybeat-schedule*
+/output/
+/Junior_Developer_Test_CV.pdf
+
+# Uploads
+backend/uploads/
+
+# Third-party local tooling (own git repos, not part of this project)
+design-skills/

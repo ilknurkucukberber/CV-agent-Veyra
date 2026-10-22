@@ -1,0 +1,46 @@
+# --- Web framework ---
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+
+# --- Settings / validation ---
+pydantic[email]==2.10.4
+pydantic-settings==2.7.1
+
+# --- Database ---
+sqlalchemy==2.0.36
+alembic==1.14.0
+psycopg[binary]==3.2.3
+
+# --- Cache / queue ---
+redis==5.2.1
+celery==5.4.0
+
+# Storage & OCR
+boto3==1.35.81
+pytesseract==0.3.13
+Pillow==11.1.0
+
+
+
+# --- Auth ---
+pyjwt==2.10.1
+# passlib 1.7.4 is unmaintained (2020) and depends on the stdlib `crypt`
+# module, which Python 3.13 removes outright; it also probes bcrypt's
+# internals in a way that breaks on bcrypt 4.1+. We call bcrypt directly
+# instead (core/security.py), so neither issue applies here.
+bcrypt==4.2.1
+
+# --- LLM ---
+anthropic==0.116.0
+google-genai==1.20.0
+groq==0.31.1
+
+# --- Dosya işleme ---
+pymupdf==1.25.2
+python-docx==1.1.2
+python-multipart==0.0.20
+
+# --- Test ---
+pytest==8.3.4
+httpx==0.28.1
+tenacity==9.0.0
